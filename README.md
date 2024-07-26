@@ -1,5 +1,5 @@
 
-# Retail T-Shirt Store: Talk to a Database  
+# Natural Language Query System for T-Shirt Store Database: Talk to a Database  
 
 This is an end to end LLM project based on Google Palm and Langchain. We are building a system that can talk to MySQL database. 
 User asks questions in a natural language and the system generates answers by converting those questions to an SQL query and
@@ -31,12 +31,12 @@ The system is intelligent enough to generate accurate queries for given question
 1.Clone this repository to your local machine using:
 
 ```bash
-  git clone https://github.com/codebasics/langchain.git
+  git clone https://github.com/SowmiyaMeena/GenAI-LLM-Application.git
 ```
 2.Navigate to the project directory:
 
 ```bash
-  cd 4_sqldb_tshirts
+  cd GenAI-LLM-Application
 ```
 3. Install the required dependencies using pip:
 
